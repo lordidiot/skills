@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pet Fringe Cleanup"
+  short_description: "Clean chroma-key halos from hatch-pet sprites"
+  default_prompt: "Use $pet-fringe-cleanup to clean chroma-key fringe from this hatch-pet run."
