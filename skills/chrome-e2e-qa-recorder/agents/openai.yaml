@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chrome E2E QA Recorder"
+  short_description: "Run Chrome QA flows and export videos"
+  default_prompt: "Use $chrome-e2e-qa-recorder to run a Chrome QA recording for this prose test flow."
