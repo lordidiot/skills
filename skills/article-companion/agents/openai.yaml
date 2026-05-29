@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article Companion"
+  short_description: "Read full articles before answering questions"
+  default_prompt: "Use $article-companion to read this article and help answer questions about it: <url>"
